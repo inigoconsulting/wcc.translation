@@ -1,0 +1,46 @@
+# Gettext Message File for Plone
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"POT-Creation-Date: 2012-10-19 19:40+0000\n"
+"PO-Revision-Date: 2006-01-29 23:00+0000\n"
+"Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: plone\n"
+
+#. Default: "Here is the full error message:"
+#: CMFPlone/skins/plone_templates/default_error_message.pt:165
+msgid "description_site_admin_full_error"
+msgstr ""
+
+#. Default: "We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for."
+#: CMFPlone/skins/plone_templates/default_error_message.pt:42
+msgid "description_site_error"
+msgstr ""
+
+#. Default: "If you are certain you have the correct web address but are encountering an error, please contact the ${site_admin}."
+#: CMFPlone/skins/plone_templates/default_error_message.pt:49
+msgid "description_site_error_mail_site_admin"
+msgstr ""
+
+#. Default: "Thank you."
+#: CMFPlone/skins/plone_templates/default_error_message.pt:55
+msgid "description_site_error_thank_you"
+msgstr ""
+
+#. Default: "We&#8217;re sorry, but there seems to be an error…"
+#: CMFPlone/skins/plone_templates/default_error_message.pt:141
+msgid "heading_site_error_sorry"
+msgstr "Sorry, this page was not found."
+
+#. Default: "This page does not seem to exist…"
+#: CMFPlone/skins/plone_templates/default_error_message.pt:36
+msgid "heading_site_there_seems_to_be_an_error"
+msgstr "Sorry, this page was not found."
