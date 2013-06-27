@@ -43,4 +43,4 @@ msgstr ""
 #. Default: "This page does not seem to exist…"
 #: CMFPlone/skins/plone_templates/default_error_message.pt:36
 msgid "heading_site_there_seems_to_be_an_error"
-msgstr "Sorry, this page was not found."
+msgstr "Disculpe, no se encontró la página que solicitó."
