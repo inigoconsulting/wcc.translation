@@ -37,5 +37,82 @@ msgstr "Change content item as default view..."
 msgid "label_advanced"
 msgstr "Advanced..."
 
-msgid "title_actions_menu"
+msgid "label_actions_menu"
 msgstr "Actions"
+
+msgid "Show all available content types"
+msgstr ""
+
+#. Default: "More..."
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:564
+msgid "folder_add_more"
+msgstr ""
+
+#. Default: "Restrictions..."
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:583
+msgid "folder_add_settings"
+msgstr ""
+
+#. Default: "Folder display"
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:288
+msgid "label_current_folder_views"
+msgstr ""
+
+#. Default: "Item display"
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:358
+msgid "label_current_item_views"
+msgstr ""
+
+#. Default: "Item: ${contentitem}"
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:317
+msgid "label_item_selected"
+msgstr ""
+
+#. Default: "Actions for the current content item"
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:46
+msgid "title_actions_menu"
+msgstr ""
+
+#. Default: "Add new items inside this item"
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:472
+msgid "title_add_new_items_inside_item"
+msgstr ""
+
+#. Default: "Change the item used as default view in this folder"
+#: CMFPlone/skins/plone_forms/select_default_view.cpt:64
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:336
+msgid "title_change_default_view_item"
+msgstr ""
+
+#. Default: "Change the state of this item"
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:630
+msgid "title_change_state_of_item"
+msgstr ""
+
+#. Default: "Select the view mode for this folder, or set a content item as its default view."
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:143
+msgid "title_choose_default_view"
+msgstr ""
+
+#. Default: "Configure which content types can be added here"
+#: plone.app.content/plone/app/content/browser/folderfactories.pt:29
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:586
+msgid "title_configure_addable_content_types"
+msgstr ""
+
+#. Default: "Delete or rename the index_html item to gain full control over how this folder is displayed."
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:139
+msgid "title_remove_index_html_for_display_control"
+msgstr ""
+
+#. Default: "Select an item to be used as default view in this folder..."
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:408
+msgid "title_select_default_view_item"
+msgstr ""
+
+#. Default: "Policy..."
+#: plone.app.contentmenu/plone/app/contentmenu/menu.py:758
+msgid "workflow_policy"
+msgstr ""
+
+
