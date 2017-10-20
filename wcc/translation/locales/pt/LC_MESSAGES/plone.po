@@ -24,3 +24,12 @@ msgstr "State:"
 
 msgid "label_add_new_item"
 msgstr "Add new..."
+
+msgid "label_choose_item"
+msgstr "Select a content item as default view..."
+
+msgid "label_change_default_item"
+msgstr "Change content item as default view..."
+
+msgid "label_change_item"
+msgstr "Change content item as default view..."
