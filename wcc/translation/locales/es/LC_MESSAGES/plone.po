@@ -44,3 +44,13 @@ msgstr ""
 #: CMFPlone/skins/plone_templates/default_error_message.pt:36
 msgid "heading_site_there_seems_to_be_an_error"
 msgstr "Disculpe, no se encontró la página que solicitó."
+
+# Do not translate edit-bar labels; English only
+msgid "label_choose_template"
+msgstr "Display"
+
+msgid "label_state"
+msgstr "State:"
+
+msgid "label_add_new_item"
+msgstr "Add new..."
