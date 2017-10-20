@@ -36,3 +36,6 @@ msgstr "Change content item as default view..."
 
 msgid "label_advanced"
 msgstr "Advanced..."
+
+msgid "title_actions_menu"
+msgstr "Actions"
