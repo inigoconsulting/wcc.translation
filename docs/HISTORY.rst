@@ -1,10 +1,10 @@
 Changelog
 =========
 
-1.3 (unreleased)
-----------------
+1.3.dev1 (2017-10-20)
+---------------------
 
-- Nothing changed yet.
+- Set edit-bar to show English only
 
 
 1.2 (2013-06-27)
