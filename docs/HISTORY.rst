@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.3.dev2 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
 1.3.dev1 (2017-10-20)
 ---------------------
 
