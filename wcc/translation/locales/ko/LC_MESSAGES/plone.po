@@ -116,3 +116,43 @@ msgid "workflow_policy"
 msgstr ""
 
 
+
+#: plone.app.collection/plone/app/collection/profiles/default/types/Collection.xml
+msgid "Collection"
+msgstr "Collection"
+
+#: CMFPlone/profiles/default/types/Topic.xml
+msgid "Collection (old-style)"
+msgstr "Old Collection"
+
+#: plone.app.portlets/plone/app/portlets/portlets/news.py:45
+msgid "News"
+msgstr "News"
+
+#: CMFPlone/profiles/default/types/Document.xml
+msgid "Page"
+msgstr "Page"
+
+#: CMFPlone/profiles/default/types/Link.xml
+msgid "Link"
+msgstr "Link"
+
+#: CMFPlone/profiles/default/types/File.xml
+msgid "File"
+msgstr "File"
+
+#: CMFPlone/profiles/default/types/Folder.xml
+msgid "Folder"
+msgstr "Folder"
+
+#: plone.app.event/plone/app/event/profiles/default/types/Event.xml
+msgid "Event"
+msgstr "Event"
+
+#: CMFPlone/profiles/default/types/Image.xml
+msgid "Image"
+msgstr "Image"
+
+#: CMFPlone/profiles/default/types/News_Item.xml
+msgid "News Item"
+msgstr "News Item"
