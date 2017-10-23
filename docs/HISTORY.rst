@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.3.dev2 (unreleased)
+1.3 (2017-10-23)
 ----------------
 
 - update translations for edit bar
