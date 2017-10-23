@@ -4,7 +4,7 @@ Changelog
 1.3.dev2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- update translations for edit bar
 
 
 1.3.dev1 (2017-10-20)
