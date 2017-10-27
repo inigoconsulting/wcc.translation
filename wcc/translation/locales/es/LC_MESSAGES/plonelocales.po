@@ -25,7 +25,7 @@ msgstr ""
 #. ${b} ${d}, ${Y} ${I}:${M} ${p}
 #: ./TranslationServiceTool.py
 msgid "date_format_long"
-msgstr "${d} de ${B} ${Y} ${H}:${M}"
+msgstr "${d} de ${B} de ${Y} ${H}:${M}"
 
 #. The variables used here are the same as used in the strftime formating.
 #. Supported are ${A}, ${a}, ${B}, ${b}, ${H}, ${I}, ${m}, ${d}, ${M}, ${p},
@@ -36,7 +36,7 @@ msgstr "${d} de ${B} ${Y} ${H}:${M}"
 #. ${b} ${d}, ${Y}
 #: ./TranslationServiceTool.py
 msgid "date_format_short"
-msgstr "${d} de ${B} ${Y}"
+msgstr "${d} de ${B} de ${Y}"
 
 #. Date format used with the datepicker jqueryui plugin.
 #. Please only use 'dd', 'mm', 'yy', '-', '/', '.' in this string.
@@ -53,4 +53,3 @@ msgstr "dd/mm/yy"
 #: ./TranslationServiceTool.py
 msgid "time_format"
 msgstr "${H}:${M}"
-
