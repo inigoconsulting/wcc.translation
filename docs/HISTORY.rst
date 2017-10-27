@@ -1,10 +1,10 @@
 Changelog
 =========
 
-1.4 (unreleased)
+1.4.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- add 'de' before year in date string
 
 
 1.3 (2017-10-23)
