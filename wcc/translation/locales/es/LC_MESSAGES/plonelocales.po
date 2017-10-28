@@ -25,7 +25,7 @@ msgstr ""
 #. ${b} ${d}, ${Y} ${I}:${M} ${p}
 #: ./TranslationServiceTool.py
 msgid "date_format_long"
-msgstr "${d} de ${B} ${Y} ${H}:${M}"
+msgstr "${d} de ${B} de ${Y} ${H}:${M}"
 
 #. The variables used here are the same as used in the strftime formating.
 #. Supported are ${A}, ${a}, ${B}, ${b}, ${H}, ${I}, ${m}, ${d}, ${M}, ${p},
@@ -36,7 +36,7 @@ msgstr "${d} de ${B} ${Y} ${H}:${M}"
 #. ${b} ${d}, ${Y}
 #: ./TranslationServiceTool.py
 msgid "date_format_short"
-msgstr "${d} de ${B} ${Y}"
+msgstr "${d} de ${B} de ${Y}"
 
 #. Date format used with the datepicker jqueryui plugin.
 #. Please only use 'dd', 'mm', 'yy', '-', '/', '.' in this string.
@@ -54,3 +54,122 @@ msgstr "dd/mm/yy"
 msgid "time_format"
 msgstr "${H}:${M}"
 
+#. Default: "April"
+#: datetime name of a month, format %B
+msgid "month_apr"
+msgstr "abril"
+
+#. Default: "Apr"
+#: datetime name of a month, format %b
+msgid "month_apr_abbr"
+msgstr "abr"
+
+#. Default: "August"
+#: datetime name of a month, format %B
+msgid "month_aug"
+msgstr "agosto"
+
+#. Default: "Aug"
+#: datetime name of a month, format %b
+msgid "month_aug_abbr"
+msgstr "ago"
+
+#. Default: "December"
+#: datetime name of a month, format %B
+msgid "month_dec"
+msgstr "diciembre"
+
+#. Default: "Dec"
+#: datetime name of a month, format %b
+msgid "month_dec_abbr"
+msgstr "dic"
+
+#. Default: "February"
+#: datetime name of a month, format %B
+msgid "month_feb"
+msgstr "febrero"
+
+#. Default: "Feb"
+#: datetime name of a month, format %b
+msgid "month_feb_abbr"
+msgstr "feb"
+
+#. Default: "January"
+#: datetime name of a month, format %B
+msgid "month_jan"
+msgstr "enero"
+
+#. Default: "Jan"
+#: datetime name of a month, format %b
+msgid "month_jan_abbr"
+msgstr "ene"
+
+#. Default: "July"
+#: datetime name of a month, format %B
+msgid "month_jul"
+msgstr "julio"
+
+#. Default: "Jul"
+#: datetime name of a month, format %b
+msgid "month_jul_abbr"
+msgstr "jul"
+
+#. Default: "June"
+#: datetime name of a month, format %B
+msgid "month_jun"
+msgstr "junio"
+
+#. Default: "Jun"
+#: datetime name of a month, format %b
+msgid "month_jun_abbr"
+msgstr "jun"
+
+#. Default: "March"
+#: datetime name of a month, format %B
+msgid "month_mar"
+msgstr "marzo"
+
+#. Default: "Mar"
+#: datetime name of a month, format %b
+msgid "month_mar_abbr"
+msgstr "mar"
+
+#. Default: "May"
+#: datetime name of a month, format %B
+msgid "month_may"
+msgstr "mayo"
+
+#. Default: "May"
+#: datetime name of a month, format %b
+msgid "month_may_abbr"
+msgstr "may"
+
+#. Default: "November"
+#: datetime name of a month, format %B
+msgid "month_nov"
+msgstr "noviembre"
+
+#. Default: "Nov"
+#: datetime name of a month, format %b
+msgid "month_nov_abbr"
+msgstr "nov"
+
+#. Default: "October"
+#: datetime name of a month, format %B
+msgid "month_oct"
+msgstr "octubre"
+
+#. Default: "Oct"
+#: datetime name of a month, format %b
+msgid "month_oct_abbr"
+msgstr "oct"
+
+#. Default: "September"
+#: datetime name of a month, format %B
+msgid "month_sep"
+msgstr "septiembre"
+
+#. Default: "Sep"
+#: datetime name of a month, format %b
+msgid "month_sep_abbr"
+msgstr "sep"
