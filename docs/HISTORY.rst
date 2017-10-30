@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.4.1 (unreleased)
-----------------
+1.4.1 (2017-10-30)
+------------------
 
 - use lowercase for month
 - add 'de' before year in date string
