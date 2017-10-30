@@ -6,7 +6,7 @@ Changelog
 
 - use lowercase for month
 - add 'de' before year in date string
-
+- reverse plone.po files in locales to version 1.2
 
 1.3 (2017-10-23)
 ----------------
