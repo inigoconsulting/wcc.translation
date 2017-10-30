@@ -4,6 +4,7 @@ Changelog
 1.4.1 (unreleased)
 ----------------
 
+- use lowercase for month
 - add 'de' before year in date string
 
 
