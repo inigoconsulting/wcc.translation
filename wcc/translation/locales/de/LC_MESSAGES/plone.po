@@ -44,3 +44,7 @@ msgstr ""
 #: CMFPlone/skins/plone_templates/default_error_message.pt:36
 msgid "heading_site_there_seems_to_be_an_error"
 msgstr "Seite leider nicht gefunden"
+
+#: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
+msgid "Dates"
+msgstr "Datum"
