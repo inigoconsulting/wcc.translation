@@ -4,7 +4,7 @@ Changelog
 1.4.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- add date translation for 'de'
 
 
 1.4.1 (2017-10-30)
