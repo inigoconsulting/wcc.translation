@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.4.2 (unreleased)
+1.4.2 (2017-11-06)
 ------------------
 
 - add date translation for 'de'
